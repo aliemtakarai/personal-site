@@ -28,6 +28,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/assets/img/aliem.png' },
       { rel:'stylesheet', type:'text/css', href:'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css' },
       { rel:'stylesheet', type:'text/css', href:'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' },
+      { rel:'stylesheet', type:'text/css', href:'/assets/css/mediumish.css' },
       { rel:'stylesheet', type:'text/css', href:'https://fonts.googleapis.com/css?family=Permanent+Marker' }
     ]
   },
