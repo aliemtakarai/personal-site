@@ -1,10 +1,7 @@
 <template>
   <div class="container">
     <div class="mainheading">
-      <h1 class="sitetitle">Aliem's Blog</h1>
-      <p class="lead">
-        Web Artistant's Notes
-      </p>
+      <h1 class="sitetitle">Programer Malas Blog</h1>
     </div>
     <section class="featured-posts">
       <div class="section-title">
@@ -47,14 +44,14 @@
         <div class="card">
           <div class="row">
             <div class="col-md-5 wrapthumbnail">
-              <a href="post.html">
+              <a href="/blog/content-2">
                 <div class="thumbnail" style="background-image:url(assets/img/demopic/2.jpg);">
                 </div>
               </a>
             </div>
             <div class="col-md-7">
               <div class="card-block">
-                <h2 class="card-title"><a href="post.html">The beauty of this world is in your heart</a></h2>
+                <h2 class="card-title"><a href="/blog/content-2">The beauty of this world is in your heart</a></h2>
                 <h4 class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</h4>
                 <div class="metafooter">
                   <div class="wrapfooter">

@@ -3,18 +3,18 @@
     <div>
       <Logo />
       <h1 class="title">
-        Aliem Arif Perkasa
+        Programer Malas
       </h1>
       <span class="title">
         Sofware Engineer | Web Enthusiast | Fullstack Web Developer <br>
-        <a to="/blog">Read Blog</a>
+        <a href="/blog">Read Blog</a>
       </span>
-      <div class="links">
+      <!-- <div class="links">
         <a href="https://twitter.com/aliemtakarai" target="blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
         <a href="https://github.com/aliemtakarai" target="blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
         <a href="https://www.linkedin.com/in/aliem-arif-perkasa/" target="blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
         <a href="https://www.instagram.com/aliemtakarai/" target="blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
